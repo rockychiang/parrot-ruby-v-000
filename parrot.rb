@@ -1,3 +1,3 @@
 def parrot(string)
-  puts "#{string}"
+  output = puts "#{string}"
 end
